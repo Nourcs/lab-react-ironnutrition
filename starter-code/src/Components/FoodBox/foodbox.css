@@ -1,0 +1,18 @@
+.add-btn {
+  position: absolute;
+  right: 0;
+  height: 100%;
+}
+
+.foodbox {
+  width: 50%;
+}
+
+.input-number {
+  position: absolute;
+  right: 37px;
+  width: 10%;
+  padding-left: 15px;
+  height: 100%;
+  border: none;
+}
